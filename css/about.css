@@ -1,0 +1,145 @@
+.navbar{
+    position: relative;
+    background-color:white;
+    height:50px ;
+    width: 100%;
+    display: flex;
+    font-family: 'Inter';
+    margin-bottom: 90px;
+   
+   }
+   .right :hover{
+    color: black;
+   }
+
+
+   .one{
+    font-family: "Inter", serif;
+      color: rgb(0, 0, 0);
+      display: flex;
+      margin-left: 250px;
+     
+      
+  }
+  .two{
+      font-family: "Inter", serif;
+      color: grey;
+     font-size: large;
+     padding-top: 2px;
+     margin-left: 5px;
+  }
+  .left{
+      display: flex;
+      margin-left: 2px;}
+
+
+      .right{
+        display: flex;
+        gap: 35px;
+        margin-top: 1px;
+       margin-left:250px;
+       font-family: "Inter", serif;
+    
+       color: gray;
+    }
+      
+    *{
+        font-family: 'Inter';
+      }
+
+        .main_title{
+        font-size: 48px;
+        margin: 48px;
+        font-weight: bolder;
+        text-align: center;
+        color: black;
+        font-stretch: condensed;
+      }
+
+
+      .conteiner{
+        width: 896px;
+        height: 2100px;
+        border-bottom: 2px solid black;
+        
+        margin-left: 275px;
+      }
+
+      .title{
+        margin: 48px 0px 24px;
+        font-size: 24px;
+        font-weight: bolder;
+        font-style: normal;
+      }
+
+      li{
+        margin-bottom: 20px;
+        margin-top: 5px;
+        color: #374151;
+
+      }
+      a{
+        font-size: 18px;
+        color: black;
+        margin-bottom: 10px;
+      }
+
+      i{
+        margin-right: 7px; ;
+      }
+
+      button{
+        height: 51px;
+        width: 192px;
+        font-size: 16px;
+        font-weight: 100;
+        font-stretch: semi-expanded;
+        
+      }
+
+      .button{
+        margin-left: 280px;
+        margin-top: 50px;
+        margin-bottom: 56px;
+      }
+.refo{
+    text-decoration: none;
+    color: gray;}
+    .cont{
+        background-color: aliceblue;
+         height: 240px;
+         width: 100%;
+         display: flex;
+         margin-top: 140px;
+       }
+       .firstco{
+         width: 30%;
+         height: 240px;
+         margin-left: 40px;
+     
+     
+       }
+       .fone{
+         font-weight: bolder;
+         color: blue;
+     
+       }
+       .ftwo{
+         color: rgb(77, 76, 76);
+       }
+       .fthree{
+         color: rgb(77, 76, 76);
+       }
+       .secondco{
+         margin-left: 140px;
+       }
+       .fsix{
+         color: rgb(77, 76, 76);
+       }
+       .thirdco{
+         margin-left: 240px;
+       }
+       .last{
+         text-align: center;
+         background-color: rgb(247, 247, 247);
+       }

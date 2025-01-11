@@ -1,0 +1,102 @@
+.navbar{
+    position: relative;
+    background-color:white;
+    height:50px ;
+    width: 100%;
+    display: flex;
+    font-family: 'Inter';
+   
+   }
+   
+   .one{
+     font-family: "Inter", serif;
+       color: rgb(0, 0, 0);
+       display: flex;
+       margin-left: 250px;
+      
+       
+   }
+   .two{
+       font-family: "Inter", serif;
+       color: grey;
+      font-size: large;
+      padding-top: 2px;
+      margin-left: 5px;
+   }
+   .left{
+       display: flex;
+       margin-left: 2px;
+   }
+   .right{
+       display: flex;
+       gap: 35px;
+       margin-top: 1px;
+      margin-left:250px;
+      font-family: "Inter", serif;
+   
+      color: gray;
+   }
+   .right :hover{
+    color: black;
+   }
+   .refo{
+    text-decoration: none;
+    color: gray;}
+
+    *{
+        font-family: 'Inter';
+    }
+    .main{
+        font-size: 48px;
+        font-weight: bolder;
+        text-align: center;
+    }
+    .toc{
+        font-size: x-large;
+        font-weight: bolder;
+        margin-left: 340px;
+        
+    }
+    li{
+margin-bottom: 30px;
+margin-left: 340px;
+text-decoration: underline;
+    }
+    .cont{
+        background-color: aliceblue;
+         height: 240px;
+         width: 100%;
+         display: flex;
+         margin-top: 140px;
+       }
+       .firstco{
+         width: 30%;
+         height: 240px;
+         margin-left: 40px;
+     
+     
+       }
+       .fone{
+         font-weight: bolder;
+         color: blue;
+     
+       }
+       .ftwo{
+         color: rgb(77, 76, 76);
+       }
+       .fthree{
+         color: rgb(77, 76, 76);
+       }
+       .secondco{
+         margin-left: 140px;
+       }
+       .fsix{
+         color: rgb(77, 76, 76);
+       }
+       .thirdco{
+         margin-left: 240px;
+       }
+       .last{
+         text-align: center;
+         background-color: rgb(247, 247, 247);
+       }

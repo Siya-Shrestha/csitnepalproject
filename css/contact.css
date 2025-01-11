@@ -1,0 +1,149 @@
+.navbar{
+    position: relative;
+    background-color:rgb(255, 255, 255);
+    height:50px ;
+    width: 100%;
+    display: flex;
+    font-family: 'Inter';
+    margin-bottom: 90px;
+   
+   }
+
+
+   .one{
+    font-family: "Inter", serif;
+      color: rgb(0, 0, 0);
+      display: flex;
+      margin-left: 250px;
+     
+      
+  }
+  .refo{
+    text-decoration: none;
+    color: gray;
+  }
+  .two{
+      font-family: "Inter", serif;
+      color: grey;
+     font-size: large;
+     padding-top: 2px;
+     margin-left: 5px;
+  }
+  .left{
+      display: flex;
+      margin-left: 2px;}
+
+
+      .right{
+        display: flex;
+        gap: 35px;
+        margin-top: 1px;
+       margin-left:250px;
+       font-family: "Inter", serif;
+    
+       color: gray;
+    }
+
+    *{
+        font-family: 'Inter';
+      }
+
+      .main_title{
+        font-size: 48px;
+        margin: 48px;
+        font-weight: bolder;
+        text-align: center;
+        
+        font-stretch: condensed;
+        color: black;
+      }
+
+    .container{
+        height: 422px;
+        width: 400px;
+        background-color: rgba(128, 128, 128, 0.119);
+        margin-top: 0px;
+        margin-left: 550px;
+      padding: 32px;
+      
+    }
+    .con{
+        display: flex;
+    }
+    .paxi{
+        margin-left: 400px;
+    }
+    .container{
+        margin-left: 40px;
+    }
+.fone{
+    font-size: larger;
+    font-weight: bold;
+}
+input{
+    border-radius: 10px;
+    border: 1px solid rgba(28, 1, 1, 0.582);
+}
+
+    .inp{
+        width: 364px;
+        height: 20px;
+        padding: 12px;
+        
+        margin-bottom: 20px;
+
+    }
+
+    .pop{
+        width: 380px;
+        height: 200px;
+    }
+    .txtarea{
+        margin-bottom: 10px;
+    }
+
+    button{
+margin-top: 30px;
+        width: 390px;
+        height: 50px;
+        background-color: black;
+        color: white;
+    }
+
+
+    
+
+    .cont{
+        background-color: aliceblue;
+         height: 240px;
+         width: 100%;
+         display: flex;
+         margin-top: 140px;
+       }
+       .firstco{
+         width: 30%;
+         height: 240px;
+         margin-left: 40px;
+     
+     
+       }
+       .fone{
+         font-weight: bolder;
+         color: blue;
+     
+       }
+       .ftwo{
+         color: rgb(77, 76, 76);
+       }
+       .fthree{
+         color: rgb(77, 76, 76);
+       }
+       .secondco{
+         margin-left: 140px;
+       }
+       .fsix{
+         color: rgb(77, 76, 76);
+       }
+       .thirdco{
+         margin-left: 240px;
+       }
